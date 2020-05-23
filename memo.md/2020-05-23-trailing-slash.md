@@ -3,8 +3,7 @@
 ## *URL의 끝에 붙이는 슬래시* ##
 
 ### 1. 요약 ###
-> https://nirrvana.github.io/todo/ 디렉토리명
-<br>
+> https://nirrvana.github.io/todo/ 디렉토리명 <br>
 > https://nirrvana.github.io/todo  파일명
 
 ### 2. 설명 ###
